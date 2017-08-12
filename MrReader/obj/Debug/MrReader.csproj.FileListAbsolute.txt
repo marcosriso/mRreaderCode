@@ -1,0 +1,10 @@
+c:\users\marcos\documents\visual studio 2017\Projects\MrReader\MrReader\bin\Debug\MrReader.exe.config
+c:\users\marcos\documents\visual studio 2017\Projects\MrReader\MrReader\bin\Debug\MrReader.exe
+c:\users\marcos\documents\visual studio 2017\Projects\MrReader\MrReader\bin\Debug\MrReader.pdb
+c:\users\marcos\documents\visual studio 2017\Projects\MrReader\MrReader\obj\Debug\MrReader.csprojResolveAssemblyReference.cache
+c:\users\marcos\documents\visual studio 2017\Projects\MrReader\MrReader\obj\Debug\MrReader.exe
+c:\users\marcos\documents\visual studio 2017\Projects\MrReader\MrReader\obj\Debug\MrReader.pdb
+c:\users\marcos\documents\visual studio 2017\Projects\MrReader\MrReader\bin\Debug\MrReader.exe.manifest
+c:\users\marcos\documents\visual studio 2017\Projects\MrReader\MrReader\bin\Debug\MrReader.application
+c:\users\marcos\documents\visual studio 2017\Projects\MrReader\MrReader\obj\Debug\MrReader.exe.manifest
+c:\users\marcos\documents\visual studio 2017\Projects\MrReader\MrReader\obj\Debug\MrReader.application
